@@ -1,0 +1,14 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "myapp to better learn npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Jennifer Plank",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
